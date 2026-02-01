@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm Fredrik Dahle-Sudmann, a cybersecurity student who loves coding and hacking.<br><br>- 🔭 I’m currently sharpening my skills on TryHackMe and other CTF-style labs.<br><br>- 📚 I'm focused on web app security, Linux, and offensive techniques.<br><br>- ⚡ In my free time I experiment with new tools, break stuff (legally), and then fix it again.</p>
+<p align="left">I'm Fredrik Dahle-Sudmann, a cybersecurity student who loves coding and hacking.<br><br>- 🔭 I'm currently sharpening my skills on TryHackMe and other CTF-style labs.<br><br>- 📚 I'm focused on web app security, Linux, and offensive techniques.<br><br>- ⚡ In my free time I experiment with new tools, break stuff (legally), and then fix it again.</p>
 
 ###
 
@@ -83,12 +83,9 @@
 
 ###
 
-## 📊 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fredrik03&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fredrik03&layout=compact&theme=tokyonight" height="160" />
-</div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fredrik03&layout=compact&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Fredrik03&show_icons=true&theme=tokyonight" height="160" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fredrik03&layout=compact&theme=tokyonight" height="160" alt="top languages" />
 </div>
-###
 
+###
