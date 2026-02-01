@@ -83,10 +83,6 @@
 
 ###
 
-<h2 align="center">📊 GitHub Stats</h2>
-
-###
-
 <div align="center">
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fredrik03&theme=tokyonight)
