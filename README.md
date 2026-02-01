@@ -83,9 +83,25 @@
 
 ###
 
+<h2 align="center">📊 GitHub Stats</h2>
+
+###
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fredrik03&show_icons=true&theme=tokyonight" height="160" alt="github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fredrik03&layout=compact&theme=tokyonight" height="160" alt="top languages" />
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fredrik03&theme=tokyonight)
+
+</div>
+
+###
+
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fredrik03&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Fredrik03&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fredrik03&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Fredrik03&theme=tokyonight)
+
 </div>
 
 ###
