@@ -85,7 +85,7 @@
 
 <div align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fredrik03&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fredrik03&theme=midnight_purple)
 
 </div>
 
