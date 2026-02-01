@@ -83,11 +83,18 @@
 
 ###
 
-![Fredrik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fredrik03&show_icons=true&theme=tokyonight)
+## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fredrik03&layout=compact&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fredrik03&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Fredrik03&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fredrik03&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Fredrik03&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fredrik03&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Fredrik03&theme=tokyonight)
+
 
 ###
 
