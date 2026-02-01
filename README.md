@@ -83,8 +83,11 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Fredrik03&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+![Fredrik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fredrik03&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fredrik03&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Fredrik03&theme=tokyonight)
 
 ###
+
