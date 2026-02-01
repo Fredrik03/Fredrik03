@@ -93,10 +93,10 @@
 
 <div align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fredrik03&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Fredrik03&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fredrik03&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Fredrik03&theme=tokyonight&utcOffset=1) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fredrik03&theme=midnight_purple)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Fredrik03&theme=midnight_purple)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fredrik03&theme=midnight_purple)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Fredrik03&theme=midnight_purple&utcOffset=1) 
 
 </div>
 
