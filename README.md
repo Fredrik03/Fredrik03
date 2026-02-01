@@ -85,13 +85,10 @@
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Fredrik03&show_icons=true&theme=tokyonight" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fredrik03&layout=compact&theme=tokyonight" height="160" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Fredrik03&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fredrik03&layout=compact&theme=tokyonight" height="160" />
+</div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fredrik03&layout=compact&theme=tokyonight" height="160" />
 </div>
 ###
 
